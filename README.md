@@ -1,6 +1,14 @@
+# Aims of this fork
+
+Someone I love very much would like a way to visualize extra planetary solar systems.  Because the groundwork of jsOrrery was already done, this is my attempt to modify the program to accomodate these goals.
+
+# Features
+
+Planned Features include: The ability to call the solar system that you wish by typing the name, and having it pull the information for all of the knowns within that system.
+
 # jsOrrery
 
-jsOrrery is a Solar System / orbital mechanics simulation, or orrery, that I wrote in WebGL and Javascript. The main feature of jsOrrery is that the planets positions are accurate in regards to the date you set, and it has the consequence that you can observe things that happen in the real Solar System.
+jsOrrery is a Solar System / orbital mechanics simulation, or orrery, that was written by mgvez in WebGL and Javascript. The main feature of jsOrrery is that the planets positions are accurate in regards to the date you set, and it has the consequence that you can observe things that happen in the real Solar System.
 
 See the project live at [orrery.com] (http://orrery.com). Thanks to [@neave] (https://twitter.com/neave) for the domain :)
 
